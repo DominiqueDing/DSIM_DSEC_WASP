@@ -1,0 +1,49 @@
+lib,species,treatment,tissue
+A1,*D. sechellia*,Wasp,Haemocytes
+A2,*D. sechellia*,Wasp,Fat Body
+A3,*D. sechellia*,Control,Haemocytes
+A4,*D. sechellia*,Control,Fat Body
+A5,*D. simulans*,Wasp,Haemocytes
+A6,*D. simulans*,Wasp,Fat Body
+A7,*D. simulans*,Control,Haemocytes
+A8,*D. simulans*,Control,Fat Body
+A9,Hybrid,Wasp,Haemocytes
+A10,Hybrid,Wasp,Fat Body
+A11,Hybrid,Control,Haemocytes
+A12,Hybrid,Control,Fat Body
+B1,*D. sechellia*,Wasp,Haemocytes
+B2,*D. sechellia*,Wasp,Fat Body
+B3,*D. sechellia*,Control,Haemocytes
+B4,*D. sechellia*,Control,Fat Body
+B5,*D. simulans*,Wasp,Haemocytes
+B6,*D. simulans*,Wasp,Fat Body
+B7,*D. simulans*,Control,Haemocytes
+B8,*D. simulans*,Control,Fat Body
+B9,Hybrid,Wasp,Haemocytes
+B10,Hybrid,Wasp,Fat Body
+B11,Hybrid,Control,Haemocytes
+B12,Hybrid,Control,Fat Body
+C1,*D. sechellia*,Wasp,Fat Body
+C2,*D. sechellia*,Wasp,Fat Body
+C3,*D. sechellia*,Control,Fat Body
+C4,*D. sechellia*,Control,Fat Body
+C5,*D. simulans*,Wasp,Fat Body
+C6,*D. simulans*,Wasp,Fat Body
+C7,*D. simulans*,Control,Fat Body
+C8,*D. simulans*,Control,Fat Body
+C9,Hybrid,Wasp,Fat Body
+C10,Hybrid,Wasp,Fat Body
+C11,Hybrid,Control,Fat Body
+C12,Hybrid,Control,Fat Body
+D1,*D. sechellia*,Wasp,Haemocytes
+D2,*D. sechellia*,Wasp,Fat Body
+D3,*D. sechellia*,Control,Haemocytes
+D4,*D. sechellia*,Control,Fat Body
+D5,*D. simulans*,Wasp,Haemocytes
+D6,*D. simulans*,Wasp,Fat Body
+D7,*D. simulans*,Control,Haemocytes
+D8,*D. simulans*,Control,Fat Body
+D9,Hybrid,Wasp,Haemocytes
+D10,Hybrid,Wasp,Fat Body
+D11,Hybrid,Control,Haemocytes
+D12,Hybrid,Control,Fat Body
